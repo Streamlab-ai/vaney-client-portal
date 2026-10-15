@@ -1,0 +1,1 @@
+.carousel-strip{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;padding:4px 2px 14px;margin:20px 0}.carousel-strip figure{flex:0 0 min(360px,82vw);margin:0;scroll-snap-align:start;background:#111;border-radius:14px;overflow:hidden}.carousel-strip img{display:block;width:100%;height:auto}.carousel-strip figcaption{padding:8px 11px;color:#fff;font-size:.8rem}
