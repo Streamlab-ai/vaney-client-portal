@@ -1,5 +1,7 @@
 window.MATT_REVIEW_SETTINGS = {
-  approvalsEndpoint: 'https://n8n-production-21ba.up.railway.app/webhook/vaney-prelaunch-20261006-approvals',
-  commentsEndpoint: 'https://n8n-production-21ba.up.railway.app/webhook/vaney-prelaunch-20261006-comments',
+  // The existing Vaney endpoints reject Matt-specific item IDs. Keep controls
+  // visibly disabled until Matt endpoints are configured by the backend owner.
+  approvalsEndpoint: '',
+  commentsEndpoint: '',
   refreshMs: 10000
 };
