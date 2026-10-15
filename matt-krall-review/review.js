@@ -157,7 +157,7 @@
     const label = card.querySelector('.caption-label');
     card.querySelectorAll('.platform-tab').forEach(tab => tab.setAttribute('aria-pressed', String(tab === button)));
     caption.textContent = button.dataset.caption;
-    label.textContent = button.textContent;
+    label.textContent = `${button.textContent} · Draft caption for review`;
   });
   document.querySelectorAll('.copy-caption').forEach(button => button.onclick = async () => {
     const box = button.closest('.caption-box');
