@@ -1,38 +1,4 @@
 const socialItems = [
-  {id:'matt-krall-social-q01-show-up',assetId:'Q01',kind:'Quote graphic',title:'How are you going to show up today?',images:['assets/social/quotes/Matt_Krall_Quote_01_DRAFT.png'],downloads:[['Download square graphic','assets/social/quotes/Matt_Krall_Quote_01_DRAFT.png']],personal:`Before the day starts making demands, take a moment to ask how you want to show up.
-
-In my Unicorn Talks conversation, I talk about writing down an intention for the day. Having it in the back of your mind can give you a reason to pause when a difficult interaction arrives.
-
-What would you want the next person you speak with to experience from you?
-
-Watch the full Unicorn Talks conversation: https://www.youtube.com/watch?v=NvmlF23m9fg`,elevate:`Before the day starts making demands, take a moment to ask how you want to show up.
-
-Matt Krall asks leaders to set an intention for the day and write it down. That intention can become a reminder when a difficult interaction arrives.
-
-What would you want the next person you speak with to experience from you?
-
-Watch the full Unicorn Talks conversation: https://www.youtube.com/watch?v=NvmlF23m9fg`,facebook:`How do you want to show up today?
-
-Matt Krall asks leaders to write down an intention and return to it when a difficult interaction tests them. What would your intention be?
-
-Full Unicorn Talks conversation: https://www.youtube.com/watch?v=NvmlF23m9fg`},
-  {id:'matt-krall-social-q02-kind-empathetic',assetId:'Q02',kind:'Quote graphic',title:'An example of a leadership intention',images:['assets/social/quotes/Matt_Krall_Quote_02_DRAFT.png'],downloads:[['Download square graphic','assets/social/quotes/Matt_Krall_Quote_02_DRAFT.png']],personal:`Wanting to be a kind and empathetic leader is a place to start. What would it look like as a behavior?
-
-I use this example in my Unicorn Talks conversation, then talk about getting more specific over time.
-
-Choose a conversation you expect today. What is one response you could practice?
-
-Watch the full Unicorn Talks conversation: https://www.youtube.com/watch?v=NvmlF23m9fg`,elevate:`What would a kind and empathetic leadership intention look like in practice?
-
-Matt Krall uses this example in his Unicorn Talks conversation, then talks about making the behavior more specific.
-
-Choose one observable response for a conversation you expect today. Ask a question before judging. Let the person finish. Give yourself a moment before reacting.
-
-Watch the full Unicorn Talks conversation: https://www.youtube.com/watch?v=NvmlF23m9fg`,facebook:`Matt Krall offers this as an example of an intention someone might write: wanting to be a kind and empathetic leader.
-
-The next question is what that looks like in practice. What is one response you could try in a conversation today?
-
-Full Unicorn Talks conversation: https://www.youtube.com/watch?v=NvmlF23m9fg`},
   {id:'matt-krall-social-c01-decision-control',assetId:'C01',kind:'Photo-led carousel · 6 slides',title:'Is every decision waiting for you?',images:Array.from({length:6},(_,i)=>`assets/social/decision-control/Matt_Krall_Decision_Control_0${i+1}_DRAFT.png`),downloads:[['Open LinkedIn PDF','assets/social/decision-control/Matt_Krall_Decision_Control_Carousel_v2_DRAFT.pdf'],['Download PNGs + editables','assets/social/decision-control/Matt_Krall_Decision_Control_PNGs_and_Editables_v2_DRAFT.zip']],personal:`Is every decision waiting for you?
 
 In this part of my Unicorn Talks conversation, I talk about how a controlling environment can leave people cautious about making the wrong call. Waiting starts to feel safer, and decisions slow down.
