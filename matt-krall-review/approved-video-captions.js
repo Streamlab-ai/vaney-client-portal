@@ -1,13 +1,27 @@
 const approvedVideoCaptions={
-'matt-krall-video-01-lead-deliberately':{personal:`Before the day fills up, write down how you want to lead.
+'matt-krall-video-01-lead-deliberately':{personal:`**How do you want people to experience you today?**
 
-That intention becomes useful when the difficult interaction arrives. It gives you something to come back to before you react.
+It's a simple question. But how often do we actually stop and ask it before the day begins?
 
-In my conversation on Unicorn Talks, I describe starting with a simple intention and making the behavior more specific as you practice.
+Do you want people to experience you as present? Curious? Patient? Someone who really listens?
 
-What would you want your team to experience from you today?
+Now think about what happens when the day gets difficult. When pressure rises, plans change, or someone challenges you.
 
-Watch the full Unicorn Talks conversation: https://www.youtube.com/watch?v=NvmlF23m9fg`,elevate:`How does a leadership intention show up in an ordinary workday?
+That's when your intention gets tested.
+
+At Elevate You, we believe intention matters. But intention alone doesn't change behavior.
+
+**Awareness gives you a choice. Intention gives you direction. Practice builds the capacity to respond differently.**
+
+In my conversation on Unicorn Talks, I share how a simple daily intention can become a powerful self-leadership practice.
+
+So tomorrow morning, before the day starts making demands of you, ask yourself:
+
+**How do I want people to experience me today?**
+
+Then choose one small behavior that would make that experience real.
+
+Watch the full conversation: https://www.youtube.com/watch?v=NvmlF23m9fg`,elevate:`How does a leadership intention show up in an ordinary workday?
 
 Matt Krall offers a small starting point: write it down, then return to it when a difficult interaction tests you.
 
@@ -100,13 +114,13 @@ Watch the full Unicorn Talks conversation: https://www.youtube.com/watch?v=NvmlF
 Matt Krall talks about a shared future, caring for each other and giving people room to contribute in this Unicorn Talks excerpt.
 
 Full Unicorn Talks conversation: https://www.youtube.com/watch?v=NvmlF23m9fg`},
-'matt-krall-video-05b-self-leadership':{personal:`What do people experience when you walk into the room?
+'matt-krall-video-05b-self-leadership':{personal:`In your last interaction with a leader in your organization, what feeling did you walk away with?
 
-In this conversation, I talk about leadership as the energy we bring to other people. We are doing it throughout the day, whether we are being intentional about it or running on autopilot.
+In this conversation, I talk about leadership as the energy we bring to other people. We transfer that energy throughout the day, whether we are being intentional about it or running on autopilot.
 
 Lead with curiosity. Look at what people need so you can guide and empower them.
 
-What are you bringing into your next conversation?
+What feeling do you want someone to carry away from their next conversation with you?
 
 Watch the full Unicorn Talks conversation: https://www.youtube.com/watch?v=NvmlF23m9fg`,elevate:`The way a leader shows up becomes part of the team’s working environment.
 

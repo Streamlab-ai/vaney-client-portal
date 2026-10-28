@@ -42,9 +42,9 @@
   function card(item){return `<article class="review-card" data-review-item="${item.id}"><div class="card-head"><div><p class="eyebrow">Video</p><h3>${item.title}</h3><p class="meta">${item.format} · ${item.hook}</p></div><div class="review-controls"><label class="approval"><input type="checkbox" disabled> Approved</label><br><span class="status-badge">Pending approval</span><span class="review-status" role="status">Loading…</span></div></div><div class="media-grid"><figure class="media-frame"><video controls playsinline preload="metadata" poster="${item.poster}" src="${item.src}"></video><figcaption>${item.format}</figcaption></figure></div><div class="asset-links"><a href="${item.src}" download>Download review video</a></div><div class="platform-tabs" role="group" aria-label="Caption platform"><button class="platform-tab" type="button" aria-pressed="true" data-caption="${escapeAttr(item.personal)}">Matt Krall LinkedIn</button><button class="platform-tab" type="button" aria-pressed="false" data-caption="${escapeAttr(item.elevate)}">Elevate You LinkedIn</button><button class="platform-tab" type="button" aria-pressed="false" data-caption="${escapeAttr(item.facebook)}">Facebook</button></div><div class="caption-box"><p class="caption-label">Matt Krall LinkedIn · Draft caption for review</p><div class="caption">${item.personal}</div><button class="button copy-caption" type="button">Copy caption</button><span class="copy-status" aria-live="polite"></span></div>${feedbackMarkup(item.id)}</article>`}
   document.querySelector('#video-items').innerHTML = videoItems.map(card).join('');
   </script>
-  <script src="approved-video-captions.js?v=1"></script>
+  <script src="approved-video-captions.js?v=2"></script>
   <script src="social-items.js?v=2"></script>
-  <script src="longform-items.js?v=1"></script>
+  <script src="longform-items.js?v=2"></script>
   <script src="review-settings.js?v=3"></script>
   <script src="review.js?v=1"></script>
 </body>
