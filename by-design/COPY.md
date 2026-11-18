@@ -1,8 +1,10 @@
-# By Design — Weeks 2–12
+# Evidence of Design: By Design calendar, Weeks 1–12
 
-Draft adaptations for review. Dates unassigned. New video recording/editing required. No claims of program outcomes.
+Draft scripts and captions. Sessions are free, noon–1 p.m. Central at Think 3D in Sioux Falls. Suggested posting dates are not scheduled.
 
-## W02P01 · The Work Within · A-roll Reel
+## W01P01 · The Work Within · A-roll Reel
+
+Suggested post: Nov 24, 2026 | Session: Dec 1, 2026
 
 ### Recording script / storyboard
 
@@ -42,7 +44,9 @@ Did you listen to the question, or defend your identity?
 
 Share this with someone you would like to discuss it with.
 
-## W02P02 · The Work Within · Companion carousel
+## W01P02 · The Work Within · Companion carousel
+
+Suggested post: Nov 26, 2026 | Session: Dec 1, 2026
 
 ### LinkedIn
 
@@ -80,7 +84,9 @@ Write down what happens. Did you listen to the question, or defend your identity
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W02P03 · The Work Within · POV Reel
+## W01P03 · The Work Within · POV Reel
+
+Suggested post: Nov 28, 2026 | Session: Dec 1, 2026
 
 ### Recording script / storyboard
 
@@ -118,7 +124,9 @@ Did you listen to the question, or defend your identity?
 
 Share this with someone you would like to discuss it with.
 
-## W02P04 · The Work Within · Culture check carousel
+## W01P04 · The Work Within · Culture check carousel
+
+Suggested post: Nov 29, 2026 | Session: Dec 1, 2026
 
 ### LinkedIn
 
@@ -150,7 +158,9 @@ Describe what you observed before assigning a motive. In one difficult conversat
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W02P05 · The Work Within · Invitation static
+## W01P05 · The Work Within · Invitation static
+
+Suggested post: Nov 30, 2026 | Session: Dec 1, 2026
 
 ### LinkedIn
 
@@ -158,7 +168,10 @@ Bring a moment when feedback felt personal. We will use it to examine the work w
 
 In this Evidence of Design Lunch & Learn, the starting point is one idea and an observation from your own experience. In one difficult conversation, name the feeling privately before deciding how to respond.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+The Work Within · Tuesday, Dec 1, 2026 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Instagram
 
@@ -168,7 +181,10 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Follow for the next part of the conversation.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+The Work Within · Tuesday, Dec 1, 2026 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Facebook
 
@@ -178,9 +194,14 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Share this with someone you would like to discuss it with.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+The Work Within · Tuesday, Dec 1, 2026 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
 
-## W03P01 · Grace · A-roll Reel
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
+
+## W02P01 · Grace · A-roll Reel
+
+Suggested post: Dec 1, 2026 | Session: Dec 8, 2026
 
 ### Recording script / storyboard
 
@@ -220,7 +241,9 @@ What did you give priority to, and what would you choose next time?
 
 Share this with someone you would like to discuss it with.
 
-## W03P02 · Grace · Companion carousel
+## W02P02 · Grace · Companion carousel
+
+Suggested post: Dec 3, 2026 | Session: Dec 8, 2026
 
 ### LinkedIn
 
@@ -258,7 +281,9 @@ Write down what happens. What did you give priority to, and what would you choos
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W03P03 · Grace · POV Reel
+## W02P03 · Grace · POV Reel
+
+Suggested post: Dec 5, 2026 | Session: Dec 8, 2026
 
 ### Recording script / storyboard
 
@@ -296,7 +321,9 @@ What did you give priority to, and what would you choose next time?
 
 Share this with someone you would like to discuss it with.
 
-## W03P04 · Grace · Culture check carousel
+## W02P04 · Grace · Culture check carousel
+
+Suggested post: Dec 6, 2026 | Session: Dec 8, 2026
 
 ### LinkedIn
 
@@ -328,7 +355,9 @@ Describe what you observed before assigning a motive. Choose one recurring trigg
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W03P05 · Grace · Invitation static
+## W02P05 · Grace · Invitation static
+
+Suggested post: Dec 7, 2026 | Session: Dec 8, 2026
 
 ### LinkedIn
 
@@ -336,7 +365,10 @@ Bring a response you want to handle differently. Start with what happened before
 
 In this Evidence of Design Lunch & Learn, the starting point is one idea and an observation from your own experience. Choose one recurring trigger and prepare a response you want to practice when it appears.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Grace · Tuesday, Dec 8, 2026 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Instagram
 
@@ -346,7 +378,10 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Follow for the next part of the conversation.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Grace · Tuesday, Dec 8, 2026 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Facebook
 
@@ -356,9 +391,14 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Share this with someone you would like to discuss it with.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Grace · Tuesday, Dec 8, 2026 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
 
-## W04P01 · Going First · A-roll Reel
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
+
+## W03P01 · Going First · A-roll Reel
+
+Suggested post: Dec 29, 2026 | Session: Jan 5, 2027
 
 ### Recording script / storyboard
 
@@ -398,7 +438,9 @@ Did your first step help other people participate?
 
 Share this with someone you would like to discuss it with.
 
-## W04P02 · Going First · Companion carousel
+## W03P02 · Going First · Companion carousel
+
+Suggested post: Dec 31, 2026 | Session: Jan 5, 2027
 
 ### LinkedIn
 
@@ -436,7 +478,9 @@ Write down what happens. Did your first step help other people participate?
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W04P03 · Going First · POV Reel
+## W03P03 · Going First · POV Reel
+
+Suggested post: Jan 2, 2027 | Session: Jan 5, 2027
 
 ### Recording script / storyboard
 
@@ -474,7 +518,9 @@ Did your first step help other people participate?
 
 Share this with someone you would like to discuss it with.
 
-## W04P04 · Going First · Culture check carousel
+## W03P04 · Going First · Culture check carousel
+
+Suggested post: Jan 3, 2027 | Session: Jan 5, 2027
 
 ### LinkedIn
 
@@ -506,7 +552,9 @@ Describe what you observed before assigning a motive. Name one unresolved questi
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W04P05 · Going First · Invitation static
+## W03P05 · Going First · Invitation static
+
+Suggested post: Jan 4, 2027 | Session: Jan 5, 2027
 
 ### LinkedIn
 
@@ -514,7 +562,10 @@ Bring a moment when you waited for someone else to begin. We will examine what g
 
 In this Evidence of Design Lunch & Learn, the starting point is one idea and an observation from your own experience. Name one unresolved question and offer a first step without claiming authority you do not have.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Going First · Tuesday, Jan 5, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Instagram
 
@@ -524,7 +575,10 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Follow for the next part of the conversation.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Going First · Tuesday, Jan 5, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Facebook
 
@@ -534,9 +588,14 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Share this with someone you would like to discuss it with.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Going First · Tuesday, Jan 5, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
 
-## W05P01 · It Depends Who's Holding the Rock · A-roll Reel
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
+
+## W04P01 · It Depends Who's Holding the Rock · A-roll Reel
+
+Suggested post: Jan 5, 2027 | Session: Jan 12, 2027
 
 ### Recording script / storyboard
 
@@ -576,7 +635,9 @@ What needs a system change, and what needs a different use of authority?
 
 Share this with someone you would like to discuss it with.
 
-## W05P02 · It Depends Who's Holding the Rock · Companion carousel
+## W04P02 · It Depends Who's Holding the Rock · Companion carousel
+
+Suggested post: Jan 7, 2027 | Session: Jan 12, 2027
 
 ### LinkedIn
 
@@ -614,7 +675,9 @@ Write down what happens. What needs a system change, and what needs a different 
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W05P03 · It Depends Who's Holding the Rock · POV Reel
+## W04P03 · It Depends Who's Holding the Rock · POV Reel
+
+Suggested post: Jan 9, 2027 | Session: Jan 12, 2027
 
 ### Recording script / storyboard
 
@@ -652,7 +715,9 @@ What needs a system change, and what needs a different use of authority?
 
 Share this with someone you would like to discuss it with.
 
-## W05P04 · It Depends Who's Holding the Rock · Culture check carousel
+## W04P04 · It Depends Who's Holding the Rock · Culture check carousel
+
+Suggested post: Jan 10, 2027 | Session: Jan 12, 2027
 
 ### LinkedIn
 
@@ -684,7 +749,9 @@ Describe what you observed before assigning a motive. Choose one tool or policy 
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W05P05 · It Depends Who's Holding the Rock · Invitation static
+## W04P05 · It Depends Who's Holding the Rock · Invitation static
+
+Suggested post: Jan 11, 2027 | Session: Jan 12, 2027
 
 ### LinkedIn
 
@@ -692,7 +759,10 @@ Bring one process your team keeps replacing. We will look at the choices made ar
 
 In this Evidence of Design Lunch & Learn, the starting point is one idea and an observation from your own experience. Choose one tool or policy and examine one decision about how it is being used.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+It Depends Who's Holding the Rock · Tuesday, Jan 12, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Instagram
 
@@ -702,7 +772,10 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Follow for the next part of the conversation.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+It Depends Who's Holding the Rock · Tuesday, Jan 12, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Facebook
 
@@ -712,9 +785,14 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Share this with someone you would like to discuss it with.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+It Depends Who's Holding the Rock · Tuesday, Jan 12, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
 
-## W06P01 · Message Received · A-roll Reel
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
+
+## W05P01 · Message Received · A-roll Reel
+
+Suggested post: Jan 12, 2027 | Session: Jan 19, 2027
 
 ### Recording script / storyboard
 
@@ -754,7 +832,9 @@ What did you change after hearing what was received?
 
 Share this with someone you would like to discuss it with.
 
-## W06P02 · Message Received · Companion carousel
+## W05P02 · Message Received · Companion carousel
+
+Suggested post: Jan 14, 2027 | Session: Jan 19, 2027
 
 ### LinkedIn
 
@@ -792,7 +872,9 @@ Write down what happens. What did you change after hearing what was received?
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W06P03 · Message Received · POV Reel
+## W05P03 · Message Received · POV Reel
+
+Suggested post: Jan 16, 2027 | Session: Jan 19, 2027
 
 ### Recording script / storyboard
 
@@ -830,7 +912,9 @@ What did you change after hearing what was received?
 
 Share this with someone you would like to discuss it with.
 
-## W06P04 · Message Received · Culture check carousel
+## W05P04 · Message Received · Culture check carousel
+
+Suggested post: Jan 17, 2027 | Session: Jan 19, 2027
 
 ### LinkedIn
 
@@ -862,7 +946,9 @@ Describe what you observed before assigning a motive. Ask the other person to de
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W06P05 · Message Received · Invitation static
+## W05P05 · Message Received · Invitation static
+
+Suggested post: Jan 18, 2027 | Session: Jan 19, 2027
 
 ### LinkedIn
 
@@ -870,7 +956,10 @@ Bring an instruction that was understood differently. We will look at what was r
 
 In this Evidence of Design Lunch & Learn, the starting point is one idea and an observation from your own experience. Ask the other person to describe the next step in their own words, and invite them to question yours.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Message Received · Tuesday, Jan 19, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Instagram
 
@@ -880,7 +969,10 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Follow for the next part of the conversation.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Message Received · Tuesday, Jan 19, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Facebook
 
@@ -890,9 +982,14 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Share this with someone you would like to discuss it with.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Message Received · Tuesday, Jan 19, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
 
-## W07P01 · Insult vs. Assessment · A-roll Reel
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
+
+## W06P01 · Insult vs. Assessment · A-roll Reel
+
+Suggested post: Jan 19, 2027 | Session: Jan 26, 2027
 
 ### Recording script / storyboard
 
@@ -932,7 +1029,9 @@ Could the person identify what to work on without defending who they are?
 
 Share this with someone you would like to discuss it with.
 
-## W07P02 · Insult vs. Assessment · Companion carousel
+## W06P02 · Insult vs. Assessment · Companion carousel
+
+Suggested post: Jan 21, 2027 | Session: Jan 26, 2027
 
 ### LinkedIn
 
@@ -970,7 +1069,9 @@ Write down what happens. Could the person identify what to work on without defen
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W07P03 · Insult vs. Assessment · POV Reel
+## W06P03 · Insult vs. Assessment · POV Reel
+
+Suggested post: Jan 23, 2027 | Session: Jan 26, 2027
 
 ### Recording script / storyboard
 
@@ -1008,7 +1109,9 @@ Could the person identify what to work on without defending who they are?
 
 Share this with someone you would like to discuss it with.
 
-## W07P04 · Insult vs. Assessment · Culture check carousel
+## W06P04 · Insult vs. Assessment · Culture check carousel
+
+Suggested post: Jan 24, 2027 | Session: Jan 26, 2027
 
 ### LinkedIn
 
@@ -1040,7 +1143,9 @@ Describe what you observed before assigning a motive. Describe one observable be
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W07P05 · Insult vs. Assessment · Invitation static
+## W06P05 · Insult vs. Assessment · Invitation static
+
+Suggested post: Jan 25, 2027 | Session: Jan 26, 2027
 
 ### LinkedIn
 
@@ -1048,7 +1153,10 @@ Bring a piece of feedback that was hard to use. We will examine the difference b
 
 In this Evidence of Design Lunch & Learn, the starting point is one idea and an observation from your own experience. Describe one observable behavior and ask what support or agreement is needed for the next attempt.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Insult vs. Assessment · Tuesday, Jan 26, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Instagram
 
@@ -1058,7 +1166,10 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Follow for the next part of the conversation.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Insult vs. Assessment · Tuesday, Jan 26, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Facebook
 
@@ -1068,9 +1179,14 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Share this with someone you would like to discuss it with.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Insult vs. Assessment · Tuesday, Jan 26, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
 
-## W08P01 · People · A-roll Reel
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
+
+## W07P01 · People · A-roll Reel
+
+Suggested post: Jan 26, 2027 | Session: Feb 2, 2027
 
 ### Recording script / storyboard
 
@@ -1110,7 +1226,9 @@ What did you learn that the job description could not tell you?
 
 Share this with someone you would like to discuss it with.
 
-## W08P02 · People · Companion carousel
+## W07P02 · People · Companion carousel
+
+Suggested post: Jan 28, 2027 | Session: Feb 2, 2027
 
 ### LinkedIn
 
@@ -1148,7 +1266,9 @@ Write down what happens. What did you learn that the job description could not t
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W08P03 · People · POV Reel
+## W07P03 · People · POV Reel
+
+Suggested post: Jan 30, 2027 | Session: Feb 2, 2027
 
 ### Recording script / storyboard
 
@@ -1186,7 +1306,9 @@ What did you learn that the job description could not tell you?
 
 Share this with someone you would like to discuss it with.
 
-## W08P04 · People · Culture check carousel
+## W07P04 · People · Culture check carousel
+
+Suggested post: Jan 31, 2027 | Session: Feb 2, 2027
 
 ### LinkedIn
 
@@ -1218,7 +1340,9 @@ Describe what you observed before assigning a motive. Ask one person what capabi
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W08P05 · People · Invitation static
+## W07P05 · People · Invitation static
+
+Suggested post: Feb 1, 2027 | Session: Feb 2, 2027
 
 ### LinkedIn
 
@@ -1226,7 +1350,10 @@ Bring a question you want to ask your team beyond the task list. We will conside
 
 In this Evidence of Design Lunch & Learn, the starting point is one idea and an observation from your own experience. Ask one person what capability they want to develop and discuss one appropriate opportunity to practice.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+People · Tuesday, Feb 2, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Instagram
 
@@ -1236,7 +1363,10 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Follow for the next part of the conversation.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+People · Tuesday, Feb 2, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Facebook
 
@@ -1246,9 +1376,14 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Share this with someone you would like to discuss it with.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+People · Tuesday, Feb 2, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
 
-## W09P01 · Invest or Pay · A-roll Reel
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
+
+## W08P01 · Invest or Pay · A-roll Reel
+
+Suggested post: Feb 2, 2027 | Session: Feb 9, 2027
 
 ### Recording script / storyboard
 
@@ -1288,7 +1423,9 @@ What did you invest in, and what behavior followed?
 
 Share this with someone you would like to discuss it with.
 
-## W09P02 · Invest or Pay · Companion carousel
+## W08P02 · Invest or Pay · Companion carousel
+
+Suggested post: Feb 4, 2027 | Session: Feb 9, 2027
 
 ### LinkedIn
 
@@ -1326,7 +1463,9 @@ Write down what happens. What did you invest in, and what behavior followed?
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W09P03 · Invest or Pay · POV Reel
+## W08P03 · Invest or Pay · POV Reel
+
+Suggested post: Feb 6, 2027 | Session: Feb 9, 2027
 
 ### Recording script / storyboard
 
@@ -1364,7 +1503,9 @@ What did you invest in, and what behavior followed?
 
 Share this with someone you would like to discuss it with.
 
-## W09P04 · Invest or Pay · Culture check carousel
+## W08P04 · Invest or Pay · Culture check carousel
+
+Suggested post: Feb 7, 2027 | Session: Feb 9, 2027
 
 ### LinkedIn
 
@@ -1396,7 +1537,9 @@ Describe what you observed before assigning a motive. Ask what makes one recurri
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W09P05 · Invest or Pay · Invitation static
+## W08P05 · Invest or Pay · Invitation static
+
+Suggested post: Feb 8, 2027 | Session: Feb 9, 2027
 
 ### LinkedIn
 
@@ -1404,7 +1547,10 @@ Bring one repeated workplace pattern that consumes time or attention. We will ex
 
 In this Evidence of Design Lunch & Learn, the starting point is one idea and an observation from your own experience. Ask what makes one recurring concern difficult to raise, then change one response within your responsibility.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Invest or Pay · Tuesday, Feb 9, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Instagram
 
@@ -1414,7 +1560,10 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Follow for the next part of the conversation.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Invest or Pay · Tuesday, Feb 9, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Facebook
 
@@ -1424,9 +1573,14 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Share this with someone you would like to discuss it with.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Invest or Pay · Tuesday, Feb 9, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
 
-## W10P01 · The Gift · A-roll Reel
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
+
+## W09P01 · The Gift · A-roll Reel
+
+Suggested post: Feb 9, 2027 | Session: Feb 16, 2027
 
 ### Recording script / storyboard
 
@@ -1466,7 +1620,9 @@ Did your contribution serve their need, or your need to be recognized?
 
 Share this with someone you would like to discuss it with.
 
-## W10P02 · The Gift · Companion carousel
+## W09P02 · The Gift · Companion carousel
+
+Suggested post: Feb 11, 2027 | Session: Feb 16, 2027
 
 ### LinkedIn
 
@@ -1504,7 +1660,9 @@ Write down what happens. Did your contribution serve their need, or your need to
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W10P03 · The Gift · POV Reel
+## W09P03 · The Gift · POV Reel
+
+Suggested post: Feb 13, 2027 | Session: Feb 16, 2027
 
 ### Recording script / storyboard
 
@@ -1542,7 +1700,9 @@ Did your contribution serve their need, or your need to be recognized?
 
 Share this with someone you would like to discuss it with.
 
-## W10P04 · The Gift · Culture check carousel
+## W09P04 · The Gift · Culture check carousel
+
+Suggested post: Feb 14, 2027 | Session: Feb 16, 2027
 
 ### LinkedIn
 
@@ -1574,7 +1734,9 @@ Describe what you observed before assigning a motive. Offer one specific contrib
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W10P05 · The Gift · Invitation static
+## W09P05 · The Gift · Invitation static
+
+Suggested post: Feb 15, 2027 | Session: Feb 16, 2027
 
 ### LinkedIn
 
@@ -1582,7 +1744,10 @@ Bring a capability you want to use more intentionally. We will look at who it co
 
 In this Evidence of Design Lunch & Learn, the starting point is one idea and an observation from your own experience. Offer one specific contribution and ask whether it would be useful before taking over.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+The Gift · Tuesday, Feb 16, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Instagram
 
@@ -1592,7 +1757,10 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Follow for the next part of the conversation.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+The Gift · Tuesday, Feb 16, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Facebook
 
@@ -1602,9 +1770,14 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Share this with someone you would like to discuss it with.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+The Gift · Tuesday, Feb 16, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
 
-## W11P01 · Right vs. Best · A-roll Reel
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
+
+## W10P01 · Right vs. Best · A-roll Reel
+
+Suggested post: Feb 16, 2027 | Session: Feb 23, 2027
 
 ### Recording script / storyboard
 
@@ -1644,7 +1817,9 @@ What did the attempt teach you, and what must you adjust without lowering your o
 
 Share this with someone you would like to discuss it with.
 
-## W11P02 · Right vs. Best · Companion carousel
+## W10P02 · Right vs. Best · Companion carousel
+
+Suggested post: Feb 18, 2027 | Session: Feb 23, 2027
 
 ### LinkedIn
 
@@ -1682,7 +1857,9 @@ Write down what happens. What did the attempt teach you, and what must you adjus
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W11P03 · Right vs. Best · POV Reel
+## W10P03 · Right vs. Best · POV Reel
+
+Suggested post: Feb 20, 2027 | Session: Feb 23, 2027
 
 ### Recording script / storyboard
 
@@ -1720,7 +1897,9 @@ What did the attempt teach you, and what must you adjust without lowering your o
 
 Share this with someone you would like to discuss it with.
 
-## W11P04 · Right vs. Best · Culture check carousel
+## W10P04 · Right vs. Best · Culture check carousel
+
+Suggested post: Feb 21, 2027 | Session: Feb 23, 2027
 
 ### LinkedIn
 
@@ -1752,7 +1931,9 @@ Describe what you observed before assigning a motive. Name the standard you want
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W11P05 · Right vs. Best · Invitation static
+## W10P05 · Right vs. Best · Invitation static
+
+Suggested post: Feb 22, 2027 | Session: Feb 23, 2027
 
 ### LinkedIn
 
@@ -1760,7 +1941,10 @@ Bring something you have delayed while waiting to do it perfectly. We will exami
 
 In this Evidence of Design Lunch & Learn, the starting point is one idea and an observation from your own experience. Name the standard you want to uphold and choose one responsible step you can take now.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Right vs. Best · Tuesday, Feb 23, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Instagram
 
@@ -1770,7 +1954,10 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Follow for the next part of the conversation.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Right vs. Best · Tuesday, Feb 23, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Facebook
 
@@ -1780,9 +1967,14 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Share this with someone you would like to discuss it with.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Right vs. Best · Tuesday, Feb 23, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
 
-## W12P01 · Build Something · A-roll Reel
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
+
+## W11P01 · Build Something · A-roll Reel
+
+Suggested post: Feb 23, 2027 | Session: Mar 2, 2027
 
 ### Recording script / storyboard
 
@@ -1822,7 +2014,9 @@ Who can carry this with you, and what have you agreed to contribute?
 
 Share this with someone you would like to discuss it with.
 
-## W12P02 · Build Something · Companion carousel
+## W11P02 · Build Something · Companion carousel
+
+Suggested post: Feb 25, 2027 | Session: Mar 2, 2027
 
 ### LinkedIn
 
@@ -1860,7 +2054,9 @@ Write down what happens. Who can carry this with you, and what have you agreed t
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W12P03 · Build Something · POV Reel
+## W11P03 · Build Something · POV Reel
+
+Suggested post: Feb 27, 2027 | Session: Mar 2, 2027
 
 ### Recording script / storyboard
 
@@ -1898,7 +2094,9 @@ Who can carry this with you, and what have you agreed to contribute?
 
 Share this with someone you would like to discuss it with.
 
-## W12P04 · Build Something · Culture check carousel
+## W11P04 · Build Something · Culture check carousel
+
+Suggested post: Feb 28, 2027 | Session: Mar 2, 2027
 
 ### LinkedIn
 
@@ -1930,7 +2128,9 @@ Describe what you observed before assigning a motive. Choose one shared practice
 
 Which moment would your team recognize? Comment SCORECARD for the resource.
 
-## W12P05 · Build Something · Invitation static
+## W11P05 · Build Something · Invitation static
+
+Suggested post: Mar 1, 2027 | Session: Mar 2, 2027
 
 ### LinkedIn
 
@@ -1938,7 +2138,10 @@ Bring one practice worth carrying forward with other people. We will examine wha
 
 In this Evidence of Design Lunch & Learn, the starting point is one idea and an observation from your own experience. Choose one shared practice, ask who wants to help sustain it, and agree on a review point.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Build Something · Tuesday, Mar 2, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Instagram
 
@@ -1948,7 +2151,10 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Follow for the next part of the conversation.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Build Something · Tuesday, Mar 2, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
 
 ### Facebook
 
@@ -1958,4 +2164,102 @@ In this Evidence of Design Lunch & Learn, the starting point is one idea and an 
 
 Share this with someone you would like to discuss it with.
 
-[Add confirmed session date, time, location and registration link before publishing.]
+Build Something · Tuesday, Mar 2, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
+
+## W12P01 · By Design · A-roll Reel
+
+Suggested post: Mar 2, 2027 | Session: Mar 9, 2027
+
+### LinkedIn
+
+Your culture isn’t unclear. It’s running by default. Watch one behavior that repeats even after you’ve named it. What does your team see rewarded, ignored, or corrected? Pick one response to model next time.
+
+### Instagram
+
+Your culture isn’t unclear. It’s running by default. Watch one behavior that repeats even after you’ve named it. What does your team see rewarded, ignored, or corrected? Pick one response to model next time.
+
+### Facebook
+
+Your culture isn’t unclear. It’s running by default. Watch one behavior that repeats even after you’ve named it. What does your team see rewarded, ignored, or corrected? Pick one response to model next time.
+
+## W12P02 · By Design · Companion carousel
+
+Suggested post: Mar 4, 2027 | Session: Mar 9, 2027
+
+### LinkedIn
+
+You wrote the values. The same behavior came back anyway. Watch what happens when someone raises a concern or misses a commitment. What did the room just learn? What do you want it to learn next time?
+
+### Instagram
+
+You wrote the values. The same behavior came back anyway. Watch what happens when someone raises a concern or misses a commitment. What did the room just learn? What do you want it to learn next time?
+
+### Facebook
+
+You wrote the values. The same behavior came back anyway. Watch what happens when someone raises a concern or misses a commitment. What did the room just learn? What do you want it to learn next time?
+
+## W12P03 · By Design · POV Reel
+
+Suggested post: Mar 6, 2027 | Session: Mar 9, 2027
+
+### LinkedIn
+
+You stopped trying to fix culture alone. You named one pattern together and agreed on one change to practice. Start there.
+
+### Instagram
+
+You stopped trying to fix culture alone. You named one pattern together and agreed on one change to practice. Start there.
+
+### Facebook
+
+You stopped trying to fix culture alone. You named one pattern together and agreed on one change to practice. Start there.
+
+## W12P04 · By Design · Culture check carousel
+
+Suggested post: Mar 7, 2027 | Session: Mar 9, 2027
+
+### LinkedIn
+
+You keep fixing the same team problems. Look at what happens when the stakes rise: whose judgment counts, which feedback stays in the room, and whether the same rules apply to everyone. Pick one pattern to address.
+
+### Instagram
+
+You keep fixing the same team problems. Look at what happens when the stakes rise: whose judgment counts, which feedback stays in the room, and whether the same rules apply to everyone. Pick one pattern to address.
+
+### Facebook
+
+You keep fixing the same team problems. Look at what happens when the stakes rise: whose judgment counts, which feedback stays in the room, and whether the same rules apply to everyone. Pick one pattern to address.
+
+## W12P05 · By Design · Invitation static
+
+Suggested post: Mar 8, 2027 | Session: Mar 9, 2027
+
+### LinkedIn
+
+Same team problems, even after everyone agrees to change? Join me for By Design, the final Evidence of Design Lunch & Learn. Bring one pattern your team keeps repeating. We’ll identify what reinforces it and choose one response to practice.
+
+By Design · Tuesday, Mar 9, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
+
+### Instagram
+
+Same team problems, even after everyone agrees to change? Join me for By Design, the final Evidence of Design Lunch & Learn. Bring one pattern your team keeps repeating. We’ll identify what reinforces it and choose one response to practice.
+
+By Design · Tuesday, Mar 9, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
+
+### Facebook
+
+Same team problems, even after everyone agrees to change? Join me for By Design, the final Evidence of Design Lunch & Learn. Bring one pattern your team keeps repeating. We’ll identify what reinforces it and choose one response to practice.
+
+By Design · Tuesday, Mar 9, 2027 · Noon–1 p.m. Central
+Free and in person at Think 3D, 401 E. 8th St., Suite 209, Sioux Falls. Bring your own lunch.
+
+[Pick your sessions](https://hello.letsthink3d.com/evidence-of-design-lunch-and-learn)
